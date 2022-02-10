@@ -2525,5 +2525,3 @@
 {"method":"getTransaction","params":["3RrXDK1BPgSpLkwqTNwiuZXidJYxiCVUwEs6mYHnLBVqyNEL6Dj8Zcabisdo3nMmZSDcuKPR4FGtwLrnfdpsGa3W",{"encoding":"json"}],"jsonrpc":"2.0","id":5}
 {"method":"getTransaction","params":["3znucKiGwnvz4cRDM2DRvp2CprgfyBBgSt1DxXHNNNTN1NQFPeGkchQrN5mvpUy6sGmU7VFmPMWxvbo5v8xEdS7M",{"encoding":"json"}],"jsonrpc":"2.0","id":1}
 {"method":"getTransaction","params":["3znucKiGwnvz4cRDM2DRvp2CprgfyBBgSt1DxXHNNNTN1NQFPeGkchQrN5mvpUy6sGmU7VFmPMWxvbo5v8xEdS7M",{"encoding":"json"}],"jsonrpc":"2.0","id":1}
-{"method":"getTransaction","params":["3RrXDK1BPgSpLkwqTNwiuZXidJYxiCVUwEs6mYHnLBVqyNEL6Dj8Zcabisdo3nMmZSDcuKPR4FGtwLrnfdpsGa3W",{"encoding":"json"}],"jsonrpc":"2.0","id":5}
-{"method":"getTransaction","params":["jnvV2foG5o1Md73hbB9J713HJuTAZ8b8JFsU
