@@ -1,7 +1,7 @@
 # sol-bench-test
 
 ```
-apt-get install python3 pyhthon3-pip
+apt-get install python3 python3-pip
 ```
 
 ```
